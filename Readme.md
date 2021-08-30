@@ -26,4 +26,4 @@ I highly recommend adding some security to your routes. You need to protect your
 
 # Thanks
 
-This project was inspired by the work of [Francesco Ciulla](https://github.com/FrancescoXX) with his [study-with-me-fastify-docker](https://github.com/FrancescoXX/study-with-me-fastify-docker)project.
+This project was inspired by the work of [Francesco Ciulla](https://github.com/FrancescoXX) with his [study-with-me-fastify-docker](https://github.com/FrancescoXX/study-with-me-fastify-docker) project.
